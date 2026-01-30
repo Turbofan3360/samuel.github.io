@@ -1,0 +1,17 @@
+body {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.country {
+    display: block;
+    color: black;
+}
