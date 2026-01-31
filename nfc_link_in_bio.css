@@ -3,6 +3,10 @@ body {
     font-size: 1em;
 
     background-color: steelblue;
+    background-image: url("https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2022/07/STScI-01GA6KKWG229B16K4Q38CH3BXS.png?w=2000&h=1158&fit=crop&crop=faces%2Cfocalpoint");
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 a {
