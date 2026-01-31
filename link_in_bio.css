@@ -22,9 +22,7 @@ a {
 }
 
 h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
     color: snow;
     font-style: italic;
 }
@@ -32,4 +30,29 @@ h1 {
 .my_details {
     font-size: 1.5em;
     color: snow;
+}
+
+.emergency_button {
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px;
+
+    font-size: 1.5em;
+    color: snow;
+    background-color: red;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+
+.button {
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    padding: 5px;
+
+    font-size: 1.5em;
+    color: snow;
+    border: 3px solid snow;
+    border-radius: 10px;
 }
