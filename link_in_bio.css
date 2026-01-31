@@ -17,19 +17,19 @@ a {
     align-items: center;
     justify-content: center;
     margin-top: 10px;
-    color: snow;
+    color: gainsboro;
     text-decoration: none;
 }
 
 h1 {
     text-align: center;
-    color: snow;
+    color: gainsboro;
     font-style: italic;
 }
 
 .my_details {
     font-size: 1.5em;
-    color: snow;
+    color: gainsboro;
 }
 
 .emergency_button {
@@ -40,8 +40,8 @@ h1 {
 
     font-size: 1.5em;
     color: snow;
-    background-color: red;
-    border: 3px solid red;
+    background-color: firebrick;
+    border: 3px solid firebrick;
     border-radius: 10px;
 }
 
@@ -52,7 +52,7 @@ h1 {
     padding: 5px;
 
     font-size: 1.5em;
-    color: snow;
-    border: 3px solid snow;
+    color: gainsboro;
+    border: 3px solid gainsboro;
     border-radius: 10px;
 }
