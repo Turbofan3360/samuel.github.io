@@ -28,7 +28,7 @@ h1 {
 }
 
 .my_details {
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: gainsboro;
 }
 
@@ -38,7 +38,7 @@ h1 {
     margin-top: 10px;
     padding: 5px;
 
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: snow;
     background-color: firebrick;
     border: 3px solid firebrick;
