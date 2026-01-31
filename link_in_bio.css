@@ -10,6 +10,7 @@ body {
     background-image: url("https://media.cntraveler.com/photos/5804ef77b5529ddf55125b40/master/pass/nasa-earth-views-01-cr-courtesy.jpg");
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 a {
