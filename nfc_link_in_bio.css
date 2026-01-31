@@ -1,17 +1,28 @@
 body {
     font-family: "Times New Roman", serif;
-    text-align: center;
-    margin: auto;
+    font-size: 1em;
+
+    background-color: steelblue;
 }
 
 a {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 10px;
-    color: black;
+    color: snow;
     text-decoration: none;
 }
 
-.country {
-    display: block;
-    color: black;
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: snow;
+    font-style: italic;
+}
+
+.my_details {
+    font-size: 1.5em;
+    color: snow;
 }
